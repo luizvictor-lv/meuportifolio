@@ -1,0 +1,2 @@
+Comando para escutar o css
+sass _cdn/scss:_cdn/css --watch

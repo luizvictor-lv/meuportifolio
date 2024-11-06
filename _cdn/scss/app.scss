@@ -1,0 +1,18 @@
+$spacer: 2rem;
+
+$enable-rounded: false;
+
+$enable-gradients: true;
+
+$theme-colors: (
+    "escuro" : #34495E,
+    "branco" : #FFFFFF,
+    "claro" : #BDC3C7,
+    "vinho" : #8E44AD,
+    "azul" : #3498DB
+
+);
+
+
+
+@import"../../node_modules/bootstrap/scss/bootstrap.scss"

@@ -1,0 +1,16 @@
+
+
+.main_menu {
+    margin: 0;
+}
+
+.main_menu li {
+    margin: 4px 20px;
+    list-style: none;
+
+}
+
+.main_menu li a {
+   padding: 4px 8px;
+   color: #FFF
+}
